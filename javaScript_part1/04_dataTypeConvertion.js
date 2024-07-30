@@ -7,7 +7,7 @@ let changeRoll = Number(roll);
 
 
 // for number convertion 
-
+   
 
 // "23" => 23, number
 // "23qwe" => NAN, number
